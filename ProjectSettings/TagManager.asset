@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 10 PlayerCollider
+  - 11 PlayerTop
+  - 12 PlayerBottom
+  - 13 PlayerForward
+  - 14 PlayerBack
+  - 15 EnemyCollider
+  - 16 EnemyTop
+  - 17 EnemySide
+  - 18 EnemyBottom
+  - 19 EnemyBullet
+  - 20 Traps
+  - 
+  - 22 Ground
+  - 23 Walls
+  - 24 Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 30 CameraCofinder
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
